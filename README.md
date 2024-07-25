@@ -15,6 +15,7 @@ Un gestionnaire de mots de passe en ligne de commande écrit en Python. Ce scrip
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/yourusername/password_manager.git
-   cd password_manager
-
+   git clone https://github.com/Rooot3301/EYE-PASS.git   
+   cd eye-pass
+   pip install requirements.txt
+   python eye-pass.py
